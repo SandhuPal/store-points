@@ -1,6 +1,7 @@
 # store-points
  
-Install the package: 'npm install'
+Install the package: 
+<pre>'npm install'</pre>
 
 Running the project
 Running the project is as simple as running
