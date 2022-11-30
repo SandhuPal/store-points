@@ -1,4 +1,4 @@
-# store-points
+# Store reward program points calculator
  
 Install the package: 
 <pre>npm install</pre>
